@@ -1,4 +1,7 @@
-## Howdy yall 🤠
+## <p align="center">
+    // Howdy yall 🤠
+</p>
+
 
 ### My name's Jordan!
 I am an environmentalist learning to analyze data about our natural and urban areas to help our communities and planet. Previously in ui/ux, now taking those *design* skills into how we think about data and especially how we are using it for good. 
