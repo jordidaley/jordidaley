@@ -1,5 +1,6 @@
 
 <h3 align="center"> Howdy yall 🤠 </h2>
+
 📝 **Personal website:** [jordandaley.co](https://www.jordandaley.co/)
 
 🐥 **Twitter:** [@jordidaley](https://twitter.com/jordidaley)
