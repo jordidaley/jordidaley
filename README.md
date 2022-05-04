@@ -9,11 +9,10 @@ I am an environmentalist learning to analyze data about our natural and urban ar
 
 
 ### Other Stuff
-- 🔭 I’m currently working on projects to strength my portfolio 
 - 🌱 I’m currently learning about eco-urban boundaries 
-- 💬 Ask me about anti-car urban planning 🚲 
+
 - 📫 How to reach me: dm me on insta or twitter <3 
-- 😄 Pronouns: he/him 
+
 - ⚡ Fun fact: I am a professional dancer 💃  
 
 
