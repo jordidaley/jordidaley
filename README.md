@@ -1,5 +1,5 @@
 
-<h3 align="center"> Howdy yall 🤠 </h2>
+<h4 align="center"> Howdy yall 🤠 </h2>
   
 📝 **Personal website:** [jordandaley.co](https://www.jordandaley.co/)
 
@@ -7,8 +7,8 @@
  
 📸 **Instagram** [@jordidaley](https://instagram.com/jordidaley)
 
-#### My name's Jordan!
-I am an environmentalist learning to analyze data about our natural and urban areas to help our communities and planet. Previously in ui/ux, now taking those *design* skills into how we think about data and especially how we are using it for good. 
+
+My name's Jordan. I am an environmentalist learning to analyze data about our natural and urban areas to help our communities and planet. Previously in ui/ux, now taking those *design* skills into how we think about data and especially how we are using it for good. 
 
 #### Skills:
 
