@@ -1,16 +1,14 @@
-### Howdy yall 🤠 !
+## Howdy yall 🤠
 
-## My name is Jordan, but you can call me Jordi
+### My name is Jordan, but you can call me Jordi!
 I am an environmentalist learning to analyze data about our natural and urban areas to help our communities and planet. Previously in ui/ux, now taking those *design* skills into how we think about data and especially how we are using it for good. 
 
 
-## Skills: 
-* 🐍 Python
-* 🗺 QGIS
-* 🌍 Google Earth Engine
+### Skills: 
+🐍 Python | 🗺 QGIS | 🌍 Google Earth Engine
 
 
-## Other Stuff
+### Other Stuff
 - 🔭 I’m currently working on projects to strength my portfolio 
 - 🌱 I’m currently learning about eco-urban boundaries 
 - 💬 Ask me about anti-car urban planning 🚲 
