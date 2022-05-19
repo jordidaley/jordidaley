@@ -12,7 +12,7 @@ My name's Jordan. I am an environmentalist who's learning to analyze data about 
 
 #### Skills:
 
-🐍 Python | 🗺 QGIS | 🌍 Google Earth Engine | 🎨 Figma
+🐍 Python | 🌍 Google Earth Engine | 🗺 QGIS | 🎨 Figma
 
 
 #### Other Stuff
